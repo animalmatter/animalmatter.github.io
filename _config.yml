@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://animalmatter.github.io'
-  relativeLinks: 'https://animalmatter.github.io/links.jsonp'
+  siteurl: '/'
+  relativeLinks: '/links.jsonp'
   media: 'images'
   metadata:
     _posts:
